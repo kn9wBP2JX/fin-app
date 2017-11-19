@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px" class=""><g><circle style="fill:#F09211" cx="256" cy="256" r="256" data-original="#0575A5" class="" data-old_color="#0575A5"/><path style="fill:#DD7B28" d="M502.82,323.912L394.442,215.544h-9.221L256,141.699l-47.982,27.425l-81.244,46.423h-9.216v14.756  l27.251,27.256v83.19h-18.035v14.797h-9.216v14.758l141.614,141.612C375.639,510.497,473.324,431.347,502.82,323.912z" data-original="#025E90" class="active-path" data-old_color="#F09211"/><g>
-	<rect x="126.797" y="340.762" style="fill:#E1EFFA;" width="258.432" height="14.774" data-original="#E1EFFA"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px" class=""><g><circle style="fill:#FFA300" cx="256" cy="256" r="256" data-original="#0575A5" class="" data-old_color="#0575A5"/><path style="fill:#E28D19" d="M502.82,323.912L394.442,215.544h-9.221L256,141.699l-47.982,27.425l-81.244,46.423h-9.216v14.756  l27.251,27.256v83.19h-18.035v14.797h-9.216v14.758l141.614,141.612C375.639,510.497,473.324,431.347,502.82,323.912z" data-original="#025E90" class="" data-old_color="#025E90"/><g>
+	<rect x="126.797" y="340.762" style="fill:#B8D1E6" width="258.432" height="14.774" data-original="#E1EFFA" class="" data-old_color="#E1EFFA"/>
 	<g>
-		<rect x="117.56" y="355.533" style="fill:#FFFFFF;" width="276.89" height="14.764" data-original="#FFFFFF"/>
-		<rect x="117.56" y="215.526" style="fill:#FFFFFF;" width="276.89" height="14.748" data-original="#FFFFFF"/>
-		<rect x="144.794" y="230.298" style="fill:#FFFFFF;" width="20.303" height="110.49" data-original="#FFFFFF"/>
+		<rect x="117.56" y="355.533" style="fill:#FFFFFF" width="276.89" height="14.764" data-original="#FFFFFF" class="active-path"/>
+		<rect x="117.56" y="215.526" style="fill:#FFFFFF" width="276.89" height="14.748" data-original="#FFFFFF" class="active-path"/>
+		<rect x="144.794" y="230.298" style="fill:#FFFFFF" width="20.303" height="110.49" data-original="#FFFFFF" class="active-path"/>
 	</g>
-	<rect x="140.18" y="230.298" style="fill:#E1EFFA;" width="29.532" height="14.833" data-original="#E1EFFA"/>
-	<rect x="212.147" y="230.298" style="fill:#FFFFFF;" width="20.316" height="110.49" data-original="#FFFFFF"/>
-	<rect x="207.565" y="230.298" style="fill:#E1EFFA;" width="29.524" height="14.833" data-original="#E1EFFA"/>
-	<rect x="279.552" y="230.298" style="fill:#FFFFFF;" width="20.296" height="110.49" data-original="#FFFFFF"/>
-	<rect x="274.918" y="230.298" style="fill:#E1EFFA;" width="29.532" height="14.833" data-original="#E1EFFA"/>
-	<rect x="346.906" y="230.298" style="fill:#FFFFFF;" width="20.303" height="110.49" data-original="#FFFFFF"/>
+	<rect x="140.18" y="230.298" style="fill:#B8D1E6" width="29.532" height="14.833" data-original="#E1EFFA" class="" data-old_color="#E1EFFA"/>
+	<rect x="212.147" y="230.298" style="fill:#FFFFFF" width="20.316" height="110.49" data-original="#FFFFFF" class="active-path"/>
+	<rect x="207.565" y="230.298" style="fill:#B8D1E6" width="29.524" height="14.833" data-original="#E1EFFA" class="" data-old_color="#E1EFFA"/>
+	<rect x="279.552" y="230.298" style="fill:#FFFFFF" width="20.296" height="110.49" data-original="#FFFFFF" class="active-path"/>
+	<rect x="274.918" y="230.298" style="fill:#B8D1E6" width="29.532" height="14.833" data-original="#E1EFFA" class="" data-old_color="#E1EFFA"/>
+	<rect x="346.906" y="230.298" style="fill:#FFFFFF" width="20.303" height="110.49" data-original="#FFFFFF" class="active-path"/>
 	<g>
-		<rect x="342.298" y="230.298" style="fill:#E1EFFA;" width="29.527" height="14.833" data-original="#E1EFFA"/>
-		<polygon style="fill:#E1EFFA;" points="256,141.699 126.789,215.539 385.213,215.539   " data-original="#E1EFFA"/>
+		<rect x="342.298" y="230.298" style="fill:#B8D1E6" width="29.527" height="14.833" data-original="#E1EFFA" class="" data-old_color="#E1EFFA"/>
+		<polygon style="fill:#B8D1E6" points="256,141.699 126.789,215.539 385.213,215.539   " data-original="#E1EFFA" class="" data-old_color="#E1EFFA"/>
 	</g>
-	<polygon style="fill:#B8D1E6" points="182.4,200.763 256,158.71 329.603,200.763  " data-original="#B8D1E6" class=""/>
+	<polygon style="fill:#5D6D7E" points="182.4,200.763 256,158.71 329.603,200.763  " data-original="#B8D1E6" class="" data-old_color="#B8D1E6"/>
 </g></g> </svg>
